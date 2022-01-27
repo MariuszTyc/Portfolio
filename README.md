@@ -7,8 +7,8 @@ I have started to interest of software testing. My goal is to develop testing kn
 
 ## Tools
 
-**Testlink** - a web-based test management system that facilitates software quality assurance
-**Enterprise architecture** - the practice of analyzing, designing, planning and implementing enterprise analysis to successfully execute on business strategies
+* **Testlink** - a web-based test management system that facilitates software quality assurance
+* **Enterprise architecture** - the practice of analyzing, designing, planning and implementing enterprise analysis to successfully execute on business strategies
 
 ## Tech skills
 
