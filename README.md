@@ -12,8 +12,12 @@ I have started to interest of software testing. My goal is to develop testing kn
 
 ## Tech skills
 
+* **UML** - Unified Modeling Language
+
 ## Certificates
 
 ## Courses
 
 ## Books
+
+* Python w zadanich - programowanie dla młodzieży poziom podstawowy
