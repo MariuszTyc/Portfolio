@@ -21,4 +21,5 @@ I have started to interest of software testing. My goal is to develop testing kn
 
 ## Books
 
-* Python w zadanich - programowanie dla młodzieży poziom podstawowy
+* Sylabus ISTQB
+* Python w zadaniach - programowanie dla młodzieży poziom podstawowy
